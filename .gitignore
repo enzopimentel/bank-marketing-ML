@@ -1,0 +1,5 @@
+# ignore dataset folder
+bank-marketing-ML/
+
+# ignore workspace folder
+Bank Marketing.code-workspace
